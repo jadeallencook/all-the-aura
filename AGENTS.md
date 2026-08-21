@@ -1,6 +1,6 @@
 ## All The Aura
 
-All The Aura is a marketing and content company we're building, based in the San Francisco Bay Area. We help business owners build an online presence: marketing strategy, content creation (with an educational emphasis), website builds, and coaching owners to become the face of their business online.
+All The Aura is a marketing and content company based in the San Francisco Bay Area. We help business owners with produce educational content and develop accessible web applications.
 
 ## External Files
 
