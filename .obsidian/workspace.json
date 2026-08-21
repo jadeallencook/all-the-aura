@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "94833e12b7de4f0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "599e03a6341a0ca0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "898b7d362e400097",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "405569d847735ff1",
+    "type": "split",
+    "children": [
+      {
+        "id": "99e59062a98f5a7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c30d9f384d6b4d9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "22d59435b9b46d9b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7c1a02218494d897",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f377e1b43fd4fc7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "37d9ca6d49c5091a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c371b1cbc3966a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5e3821d903247110",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "74e3cfd836340162",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "96538e4dda9899b4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "11871db6730ad2e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c30d9f384d6b4d9a",
+  "lastOpenFiles": [
+    "src/lib/utils.ts",
+    "src/lib",
+    "src/components/ui/button.tsx",
+    "src/components/ui",
+    "src/components",
+    "node_modules/lucide-react/dynamicIconImports.d.ts",
+    "node_modules/lucide-react/dynamicIconImports.d.mts",
+    "node_modules/lucide-react/dynamic.d.ts",
+    "node_modules/lucide-react/dynamic.d.mts",
+    "node_modules/lucide-react/dynamicIconImports.mjs",
+    "node_modules/lucide-react/dynamic.mjs",
+    "node_modules/lucide-react/README.md",
+    "node_modules/@modelcontextprotocol/sdk/README.md",
+    "node_modules/caniuse-lite/README.md",
+    "node_modules/@base-ui/react/README.md",
+    "node_modules/@base-ui/react/CHANGELOG.md",
+    "node_modules/@base-ui/react/docs/react/overview/releases/v1-7-0.md",
+    "node_modules/@base-ui/react/docs/react/overview/releases/v1-6-0.md",
+    "node_modules/@base-ui/react/docs/react/overview/releases/v1-5-0.md",
+    "node_modules/@base-ui/react/docs/react/overview/releases/v1-4-1.md",
+    "node_modules/@base-ui/react/docs/react/overview/releases/v1-4-0.md",
+    "node_modules/@base-ui/react/docs/react/overview/releases/v1-3-0.md",
+    "node_modules/@base-ui/react/docs/react/overview/releases/v1-2-0.md",
+    "node_modules/@base-ui/react/docs/react/overview/releases/v1-1-0.md",
+    "node_modules/@base-ui/react/docs/react/overview/releases/v1-0-0.md",
+    "node_modules/@base-ui/react/docs/react/overview/releases/v1-0-0-rc-2.md",
+    "node_modules/@base-ui/react/docs/react/overview/releases/v1-0-0-rc-1.md",
+    "node_modules/@base-ui/react/docs/react/overview/releases/v1-0-0-rc-0.md",
+    "node_modules/@base-ui/react/docs/react/overview/releases/v1-0-0-beta-7.md",
+    "node_modules/@base-ui/react/docs/react/overview/releases/v1-0-0-beta-6.md",
+    "node_modules/@base-ui/react/docs/react/overview/releases/v1-0-0-beta-5.md",
+    "node_modules/@base-ui/react/docs/react/overview/releases/v1-0-0-beta-4.md",
+    "node_modules/@base-ui/react/docs/react/overview/releases/v1-0-0-beta-3.md",
+    "node_modules/@base-ui/react/docs/react/overview/releases/v1-0-0-beta-2.md",
+    "node_modules/@base-ui/react/docs/react/overview/releases/v1-0-0-beta-1.md",
+    "node_modules/@base-ui/react/docs/react/overview/releases/v1-0-0-beta-0.md"
+  ]
+}
