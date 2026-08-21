@@ -4,7 +4,7 @@ All The Aura is a marketing and content company based in the San Francisco Bay A
 
 ## External Files
 
-To keep this file small, detailed reference material lives in separate directories within this project folder instead of being pasted in here. Every directory must be linked below with a one-line description, so it's always found in future conversations. Individual markdown files are NOT linked here — each directory has its own `Appendix.md` that indexes the files inside it with descriptions. That's the file to open for the specifics.
+Individual markdown files are NOT linked here — each directory has its own `Appendix.md` that indexes the files inside it with descriptions. That's the file to open for the specifics.
 
 - [Policies](Policies/Appendix.md) — client engagement and service policies.
 - [Pricing](Pricing/Appendix.md) — pricing for marketing, content, website, and coaching packages.
